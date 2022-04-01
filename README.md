@@ -1,6 +1,6 @@
 # nlpt-subs
 
-## Example Outout Videos
+## Example Output Videos
 
 https://youtu.be/UN-ByxZxgok
 
