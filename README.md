@@ -18,4 +18,6 @@ python get_wer_cer.py -t res/{googleASR, genericLM, little_prince_specific_LM}/t
 ## Alignment Evaluation (TODO: Max)
 
 NOTE: synched srt files can be found in 
-```./res/{googleASR, genericLM, little_prince_specific_LM}/output.srt```
+```
+./res/{googleASR, genericLM, little_prince_specific_LM}/output.srt
+```
