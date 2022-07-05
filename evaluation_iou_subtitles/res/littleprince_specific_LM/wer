@@ -1,0 +1,6 @@
+
+RESULTS:
+
+%WER 20.03 [ 459 / 2292, 244 ins, 121 del, 94 sub ]
+%SER 100.00 [ 1 / 1 ]
+Scored 1 sentences, 0 not present in hyp.
